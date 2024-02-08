@@ -21,7 +21,10 @@ Este é um projeto desenvolvido utilizando React, TypeScript e Tailwind CSS, que
    - Existe um recurso de pesquisa que permite aos usuários filtrar as notas existentes com base em determinados critérios.
 
 5. **Armazenamento Local:**
+
    - As notas podem ser salvas localmente, permitindo que os usuários acessem suas notas posteriormente, mesmo após o fechamento do aplicativo.
+
+   [<img src="./design/notes.gif" alt="gif do projeto">]
 
 ## Tecnologias Utilizadas
 
@@ -39,8 +42,8 @@ Este é um projeto desenvolvido utilizando React, TypeScript e Tailwind CSS, que
    ```bash
     git clone https://github.com/seu-usuario/seu-projeto.git
    ```
-   
 3. **Instalar Dependências:**
+
 ```bash
 cd seu-projeto
 npm install   # ou yarn install
