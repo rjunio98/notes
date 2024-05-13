@@ -3,7 +3,6 @@
 Este é um projeto desenvolvido utilizando React, TypeScript e Tailwind CSS, que permite aos usuários adicionar notas de duas maneiras: por meio de texto ou gravando áudio. Além disso, oferece a funcionalidade de busca de notas e a capacidade de salvar as notas em um armazenamento local.
 
 ## Funcionalidades Principais
-
 1. **Adição de Notas:**
 
    - Ao clicar no botão de adicionar notas, um modal é exibido, permitindo ao usuário escolher entre escrever uma nota em texto ou gravar áudio.
